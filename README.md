@@ -31,8 +31,7 @@ Atualmente atuo na **Agência de Inovação do Ifes (Agifes)**, onde trabalho co
 
 ### 📬 Vamos conversar?
 
-*   LinkedIn: [Seu Link Aqui]
-*   E-mail: [Seu E-mail Aqui]
+*   E-mail: matheusbutterdias@gmail.com
 *   Fuso horário: Vitoria, ES (GMT-3)
 
 ---

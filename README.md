@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Matheus! 👋
 
-<!--
-**MatheusButter/MatheusButter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação no IFES Serra e desenvolvedor apaixonado por criar soluções tecnológicas que conectam inovação e gestão.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desenvolvimento Full-Stack:**
+*   **Backend:** Java (Spring Boot), Python
+*   **Frontend:** React
+*   **Banco de Dados:** SQL (PostgreSQL), modelagem de dados
+
+**Dados & Inovação:**
+*   **Visualização:** Looker Studio, Google AppSheet
+*   **Machine Learning:** PyTorch, Seaborn
+*   **Interesses:** Propriedade Intelectual, Inovação Tecnológica
+
+---
+
+### 🚀 Experiência e Projetos
+
+Atualmente atuo na **Agência de Inovação do Ifes (Agifes)**, onde trabalho com:
+*   Gestão de sistemas de informação para extensão.
+*   Análise de dados para suporte à tomada de decisão.
+*   Difusão de conhecimento sobre Propriedade Intelectual.
+
+**Projetos em Destaque:**
+*   **Cardápio Inteligente:** Projeto full-stack com suporte multi-idioma e gestão dinâmica de tags.
+*   **Análise de Dados Acadêmicos:** Implementação de algoritmos de processamento paralelo em Python para otimização de datasets.
+
+---
+
+### 📬 Vamos conversar?
+
+*   LinkedIn: [Seu Link Aqui]
+*   E-mail: [Seu E-mail Aqui]
+*   Fuso horário: Vitoria, ES (GMT-3)
+
+---
+*Status: Sempre em busca de aprender novas tecnologias e aplicar ciência de dados para resolver problemas reais.*
